@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="helen_intro">Did you know the gardens have many types of plants and flowers?</string>
+    <string name="button">Click for info!</string>
+</resources>
